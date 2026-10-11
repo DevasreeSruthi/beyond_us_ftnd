@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@400;600;700&family=Great+Vibes&display=swap");
+
+* { box-sizing: border-box; }
+html, body, #root { width: 100%; min-height: 100%; margin: 0; }
+body { font-family: "Inter", Arial, sans-serif; background: #020617; color: #e2e8f0; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
